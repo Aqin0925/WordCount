@@ -272,7 +272,7 @@ namespace ConsoleApp1
             Sum Sumword = new Sumword();
             Sum Pinlv = new Pinlv();
             Sum Zhiding = new Zhiding();
-            Console.WriteLine("1:查询字符数   2:查询单词数   3:查询有效行数   4:查询词频最高的10个并输出  ");
+            Console.WriteLine("1:查询字符数   2:查询单词数   3:查询有效行数   4:查询词频最高的10个并输出  5:词组频率  6:自定义输出");
             Console.WriteLine("请输入你需要的功能");
             int i = int.Parse(Console.ReadLine());
             switch (i)
@@ -281,6 +281,8 @@ namespace ConsoleApp1
                 case 2: Sumword.output();break;
                 case 3: Sumline.output();break;
                 case 4: Sumtime.output();break;
+                case 5: Pinlv.output();break;
+                case 6: Zhiding.output();break;
                 default:Console.WriteLine("你输入的指令有误！！");break;
             }
             Console.ReadKey();
