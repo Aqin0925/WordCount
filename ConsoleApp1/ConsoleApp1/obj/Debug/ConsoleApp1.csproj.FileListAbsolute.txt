@@ -1,0 +1,14 @@
+C:\Users\LEbron\Desktop\201731062628\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\LEbron\Desktop\201731062628\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\LEbron\Desktop\201731062628\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\LEbron\Desktop\201731062628\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\LEbron\Desktop\201731062628\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\LEbron\Desktop\201731062628\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\LEbron\Desktop\201731062628\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\LEbron\Desktop\201731062628\WordCount\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\LEbron\Desktop\201731062628\WordCount\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\LEbron\Desktop\201731062628\WordCount\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\LEbron\Desktop\201731062628\WordCount\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\LEbron\Desktop\201731062628\WordCount\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\LEbron\Desktop\201731062628\WordCount\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\LEbron\Desktop\201731062628\WordCount\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
